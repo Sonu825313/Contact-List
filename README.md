@@ -6,15 +6,15 @@ Contact List display user contacts and user can edit, delete and add new contact
 
 https://contact-list01.netlify.app/
 
-## Screenshot 01:
+## Show all the contact-list:
 ![Contact-List](https://user-images.githubusercontent.com/106314383/201008087-5db405cf-c831-402c-805d-c253b86bf41d.png)
 
-## Screenshot 02:
+## Add section to the contact-list of this project:
 ![Contact-List (1)](https://user-images.githubusercontent.com/106314383/201008132-ac11eb0d-e2a8-454e-be6f-4937fb42e492.png)
 
 
 
-## Screenshot 03:
+## Edit section to the contact-list of this project:
 ![Contact-List (2)](https://user-images.githubusercontent.com/106314383/201008167-df9e9f11-220a-4598-9bf8-2acb6493eaf0.png)
 
 
